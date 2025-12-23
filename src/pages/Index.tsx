@@ -44,7 +44,7 @@ const Index = () => {
         <div className="container mx-auto px-6 py-4">
           <div className="flex items-center justify-between">
             <h1 className="text-2xl font-bold bg-gradient-to-r from-purple-600 to-pink-600 bg-clip-text text-transparent">
-              DonateServer
+              Сайт для начинающих
             </h1>
             <div className="flex gap-6">
               <button onClick={() => scrollToSection('hero')} className="text-gray-700 hover:text-purple-600 transition-colors font-medium">
@@ -261,7 +261,7 @@ const Index = () => {
       <footer className="bg-white py-12 px-6 border-t border-purple-100">
         <div className="container mx-auto text-center">
           <h2 className="text-2xl font-bold bg-gradient-to-r from-purple-600 to-pink-600 bg-clip-text text-transparent mb-4">
-            DonateServer
+            Сайт для начинающих
           </h2>
           <p className="text-gray-600 mb-6">
             Спасибо за вашу поддержку! Вместе мы делаем проект лучше 💜
